@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class NumberGuess
 {
-
-
         public static void guessingNumberGame()
 
         {
